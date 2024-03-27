@@ -1,0 +1,16 @@
+This is a job posting:
+
+""
+========================
+Write the creative cover letter based on following format. The total letter must be less than 1000 letter and one sentence must be less than 50 letter. The context of all sentences connect each other and focuses on client's project.
+Format:
+Plz insert the text of "𝐇𝐞𝐥𝐥𝐨! 👋 𝐈 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐢𝐝𝐞𝐚 𝐭𝐨 𝐥𝐢𝐟𝐞." on the top of cover letter and change the row for next sentence.
+Write the funny sentence that hint I just read the job post.
+Write understanding of the project or recommend client to explain one information about the job posting(must include expression: I'd like to").
+Then write the best tailored background with job posting by simple two sentence based on previous work of my potfolio.
+Describe the methodology to approach to task as 4 sentences and hint some more great solving. If there is no task in job description, describe how can I help you with my skills in 3 sentence and hint more help
+Describe the relationship of this project with my similar project that client can find in my potfolio https://marten-willing-ox.ngrok-free.app(you must include the name of the project ,description of this project and potfolio URL).
+If the client has time, request him to visit my github(https://github.com/Superdev0909).
+Don't forget to include me in your shortlist.
+Write call to action telling to connect me to client.
+Write my name(Yamazaki) in last paragraph.

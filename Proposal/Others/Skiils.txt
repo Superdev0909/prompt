@@ -1,0 +1,15 @@
+Data Analyst, Data science ===============> Marketing Analysics, Microsoft Power BI, Google Analytics, Google AdSense API, Google Analytics API
+Dashboard, Presentations, Rapid Miner, SQL, Python, Data Analysis, Analytics, Amazon Web Service, AWS , Data Mining,
+
+Financial & Business Consultant ==============> Financial Analysis, Financial Report, Financial Modeing, Business Plan, Company Valuation, Microsoft Excel, Financial Planning, Financial modeling,  Personal finance, Personal Fianace & Wealth Manager, Business Plan, Business Analysis Forecasting, Financial Projection, Financial Planning
+Data Entry
+
+
+DevOpsEngineer ===========> DevOps, Git, Docker, javascript, MongoDB, Python, CI/CD,  Asterisk, Microsoft Azure, Amazon Web Service, Linux, Microsoft Dynamics CRM, Microsoft Dynamics 365, SQL, 	
+
+Salesforce Engineer ========> Salesforce App Development, Salesforce Service Cloud, Salesforce CRM, Zoho CRM, CRM development, Salesforce sales cloud, Apex, RESTful API, API integration,  Salesforce Lightning, Amazon web Service
+
+Python + AI = =========>  Python, PyQT, Django, @ Selenium,  API,   Data Scrapping, Machine Learning, AI
+--------->Node.js LangChain, chatGPT, Web scrapping, Flask, HTML, PostgreSQL, Data Analysis
+--------->AI, Vertex AI, Google Cloud Platform, Machine Learning, Data Science, TensorFlow, Stable Diffusion, Stable Diffusion Prompt, Generative AI
+-------->API, NodeJS, Typescript

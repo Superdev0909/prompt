@@ -1,0 +1,9 @@
+Description:
+I have done Chat Bot and CMS projects.
+So I have a lot of experiences related to them.
+As a Full Stack developer, I have expertise in both front-end and back-end web development. I possess a strong understanding of various programming languages, frameworks, and technologies, allowing me to work on all aspects of a web application or software project.
+On the front-end, I am proficient in html, css, and javascript. I can create responsive and user-friendly interfaces, implement interactive features, and ensure cross-browser compatibility. I am experienced in working with front-end frameworks such as React, Angular, or Vue.js to build dynamic and efficient user interfaces.
+On the back-end, I have knowledge of server-side programming languages like Python, Java, or Node.js. I can design and develop APIs, handle data storage and retrieval, and implement server-side logic. I am familiar with frameworks like Django, Spring Boot, or Express.js for building robust and scalable back-end systems.
+Additionally, I have experience working with databases, both SQL and NoSQL, and can efficiently design and query databases to meet project requirements. I am comfortable with version control systems like Git and have a good understanding of DevOps practices.
+As a Full Stack developer, I am capable of handling the entire development process, from conceptualization and planning to deployment and maintenance. I am adaptable and continuously stay updated with the latest technologies and trends in the industry to deliver high-quality and efficient solutions.
+Overall, my goal as a Full Stack developer is to create seamless and performant web applications that provide a great user experience and meet the specific needs of businesses or clients.

@@ -1,0 +1,12 @@
+1. I have gained in delivering company management system using AI.
+In previous project, clients can select deliverying method, destination, time and so on.
+The system auto generate deliverying schedule based on all the client's requirements.
+In addition to that, various kind of AI/ML system, especially time-series data processing was my favorite.
+
+2. For your project I suggest several python libraries for ML system development like Numpy or Scikit-learn.
+And for future prediction, I'm going to use ChatGPT to generate basic data.
+Also, for appealing and user-interactive interface, I recommend PlotLy or MatPlotLib.
+I think Django is the best framework as backend.
+If you contact me, I'll share my previous projects which includes many fields like stock market prediction or user engagement.
+P.S
+I'm familiar with business strategy management system like Hopex.

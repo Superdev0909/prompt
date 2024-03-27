@@ -1,0 +1,23 @@
+
+
+-----------------------------------------------------------------
+Full-Stack Software Engineer.
+
+I consider myself a Full-Stack Software Engineer. I can work on both front-end and back-end projects. I'm comfortable with tools/languages under Linux environment. I can set up Web server, deployment and write custom code to maintain the web application.
+
+Java
+PHP
+SQL
+Perl
+
+PostgreSQL
+MySQL
+
+Web Service
+API
+PHP Script
+RESTful API
+Database
+Automated Deployment Pipeline
+
+HTTP

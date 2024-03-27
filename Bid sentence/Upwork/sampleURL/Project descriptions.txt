@@ -1,0 +1,17 @@
+===========Platform for therapists
+Platform overview:
+The idea of this project is to connect people looking for holistic/alternative therapies and qualified therapists.
+
+Through a personalised diagnosis, the platform provides the client with a suggested list of the main treatments that would meet their needs/pains. In parallel, therapists who are registered for the types of therapies recommended to the client will receive a notification so that they can make contact and offer their services.
+
+What I need is a platform that I think is similar to what Workana delivers, but with an Alternative Therapies audience/niche.
+
+I need to create the client side where they register, request a form, fill it in and receive a list of suggested therapies. This is done through a questionnaire where, depending on the answers, certain therapies are suggested.
+
+And the therapist's side, where he needs to register (through monthly plans), and will receive referrals from clients looking for the skills he needs.
+A chat room within the platform for negotiations and closing the appointment.
+The platform retains the fee and transfers the % to the therapist once it has been finalised.
+
+Translated with www.DeepL.com/Translator (free version)
+
+=======================

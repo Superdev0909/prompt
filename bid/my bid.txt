@@ -1,0 +1,42 @@
+//convert figma to showit platform
+
+Hello!
+I have rich experience in Showit platform.
+If you provide figma design I can convert it to showit platform successfully.
+I can start working right now and I'm full-time developer for you.
+I hope that I will be able to be a part of your project to improve your most valuable assets.
+I'd like to discuss further if you can consider me for this job.
+
+Hello!
+I'm very interested in your project.
+Your project is establishing website for identifing three local competitors with high customer ratings using AI-driven vendor analysis algorithms and criteria.
+As far as machine-learning experiences I think this project consists three steps:
+Data collection(gathering relevant data from various sources such as websites, business directories, social media platforms, industry reports, and public databases)
+Vender Analysis(analyzing and evaluating vendor profiles based on different parameters such as company size, revenue, customer reviews, product offerings, market presence, and financial performance using machine learning algorithms)
+Competitor Identification and Insights and Recommendation.
+These are performed using AI-driven system.
+I'm React expert so I 'll use this framework.
+It's enough 2 weeks for this project.
+My hourly rate is $30/hr and I'm a full-time developer.
+I'd like to discuss further if you can consider me for this job.
+Thank you.
+
+
+
+Hello.
+Odoo expert is here.
+McCreery's Home Furnishings
+https://mccreerys.com
+I implemented three modules in Odoo (a full-stack application framework based on Python, SQL, and HTML/JS/CSS) for McCreery's Home Furnishings.
+The first module allowed customers to request quotes for furniture.
+The second module allowed the client to gather customer information in multiple stages, instead of requiring the customer to fill out an entire form (that resulted in lost leads).
+The third module allowed the client to iMcmport their previous Wordpress blog to Odoo. This was by far the most complex project since it involved heavily processing the Wordpress content to make it compatible with Odoo's expected file format.
+I implemented these three modules despite never having worked with Odoo before, and the client's systems engineer was surprised by my fast turnaround time.
+
+Nanoramic Laboratories Odoo Implementation
+https://www.nanoramic.com/
+Nanoramic Laboratories uses Odoo to handle day-to-day tasks across the company. I was hired to customize Odoo to the extreme, creating new views dedicated to custom needs, creating reports, and integrating with the company's third-party utilities like Slack or AWS.
+Static Fair Website Generator
+An Odoo module that would take some information about a fair (fair name, exhibitors, stand guides, deferred announcements) and transform them into a static website hosted on AWS S3 and powered by AWS Resources :
+
+If you need my help, please ping me. Thanks!

@@ -1,0 +1,31 @@
+
+==========AI
+Hello,
+Thank you for posting this work.
+I have high hopes for this project as I had a similar experience.
+Going through the project and the attached documentation gives me a lot of confidence and a feeling of success.
+I have developed it in python and node.
+I used the LLM Langchain open-eye model for sales marketing support.
+And your project is very similar to my previous project.
+I used Twilio to send WAPP messages and then implemented media delivery such as PDFs, images, audio, etc.
+I used QARefineChain to train the pdf with the OpenAI model.
+There were no problems with the project.
+I really enjoy working with you and believe in your success.
+
+
+==================ChatGPT
+
+Hello,
+I'm excited about your project with chatgpt.
+My rich experience and knowledge with chatgpt integration has made me stronger and more confident.
+Do you know my current confidence in your project?
+I am a professional OpenAI and langchain developer with chatbot and chatgpt.
+My strength shows in my previous chatbot integration projects.
+The first was the creation of a chat platform with documents.
+This platform allows users to interact with their documents.
+And another was for sales marketing on WAPP.
+With the langchain model and fine-tuning, I can create a powerful chatgpt integration model as you wish.
+As long as you are satisfied with your project, I believe I can do the best for you.
+Thank you very much
+
+Translated with www.DeepL.com/Translator (free version)

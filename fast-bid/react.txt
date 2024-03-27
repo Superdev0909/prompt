@@ -1,0 +1,51 @@
+🟢🟢🟢Hello, 
+
+Got a moment to chat about your project? 𝐖𝐞 𝐝𝐢𝐝 𝐚 𝐬𝐢𝐦𝐢𝐥𝐚𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐞𝐟𝐨𝐫𝐞.
+
+I have read your description and I can definitely help you in developing your website using MERN Stack. I have a good understanding of React.js and its core principles along with experience with popular React.js workflows (such as Flux or Redux). Along with this, I am well versed in the Next.js framework of React.js and developed many projects in it. It enables me to efficiently build fast and SEO-friendly web applications. The server-side rendering ensures quicker page loads and improved search engine visibility.
+
+When it comes to the backend, I am well versed with Node.js frameworks like Express.js, and Nest.js. As for the database I am proficient with MongoDB, and MySQL. On the API front, I have worked extensively on Rest and GraphQL. I have integrated Xero, QuickBooks, ShipEngine, ATS, CRMs, and much more.
+
+In the last 5+ years, I have handled the end-to-end software development life cycle of numerous E-commerce, Marketplaces, Retail, Trading, Pharma, Gaming, and Hospitality businesses. Some of the projects I have developed recently using MERN Stack are ...
+
+𝙃𝙚𝙧𝙚 𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙚𝙭𝙖𝙢𝙥𝙡𝙚𝙨 𝙤𝙛 𝙢𝙮 𝙬𝙤𝙧𝙠:
+
+✔ Mereka - Mereka is a learning platform that targets Malaysia's working or corporate people. The users create a profile, subscribe, and can learn extra activities they wish to learn. For example - playing guitar, cooking, gardening, etc. I have also SEO-optimized the website. I am sharing some screenshots of the project below.
+Tech stack - Node (Backend) React, Next(Frontend)
+Link - - https://mereka.io/
+
+✔ Medkart - It's a Indian well-funded startup for pharmacy needs. The website allows users to order their medicines and lab tests online from the comfort of their homes and make payments for them. They can also track their order status.
+Tech stack - Django (Backend) React, Next(Frontend)
+Web Link - https://www.medkart.in/
+
+✔ InnRoad - It's a Software-as-a-Service (SaaS) hotel software solution that seamlessly integrates property management, global distribution, bookings and marketing–all on a single, easy-to-use platform designed exclusively for independent hoteliers, small hotel chains and hotel management companies.
+Tech stack - Node (Backend) Vue(Frontend)
+Link -- https://www.innroad.com/index.php/
+
+✔ Fintech - This is SAAS which is used to provide customer advance while filling taxes. Taxshield helps companies like crosslink to give out cash before IRS processes the return which help crosslink to retain employees.
+Tech stack - Django (Backend) Angular(Frontend)
+Link -- http://www.gettaxshield.com/
+
+𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
+
+React / Redux / Flux, AngularJS / React Hooks
+React Native
+Node JS / Express/ Redis
+GraphQL.js / Express GraphQL server
+Relay / React Apollo / Lokka GraphQL client
+Mongo / Rethink / PostgreSQL / MySQL DB
+Javascript / ES 6 / Typescript
+Html5 / CSS3 / Sass / Less
+Github / Bitbucket / GitLab, Jira / Asana /Trello
+Webpack / Babel / Gulp / Npm / Git
+React Material UI / React Bootstrap
+AWS / Heroku / DigitalOcean
+Facebook / Twitter / Instagram / Stripe / Braintree Integration
+APN, GA (Google Analytics) & GTM (Google Tag Management) & Facebook Analytics
+
+𝐌𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨: https://noted-leopard-meet.ngrok-free.app/
+𝐆𝐢𝐭𝐡𝐮𝐛: https://github.com/Superdev0909
+
+I am fairly confident that I can handle the project and if you have the same feeling after reading my proposal and checking the profile, I would suggest we should have a call to discuss things in greater detail. I am looking forward to your reply.
+
+Have a great day!

@@ -1,0 +1,15 @@
+Hi client.
+I have read your proposal carefully and fully understood it.
+Based on my analysis, I am a good fit for your project.
+Reason 1: With my 5+ years of CRM development, I am very familiar with Customer Relationship Management Solutions(Freshdesk, Zoho).
+Reason 2: As a dedicated frontend developer, I prefer user-friendly, pixel-perfect and responsive web design as well as using several templates.
+Reason 3: I am a passionate developer who realizes my clients' requirements thoroughly.
+
+Here are my experienced websites using Freshdesk:
+https://desk.equinox.com
+https://mossberg.com
+https://courts.maine.gov
+https://article.com
+
+Please check my analysis and give me feedback.
+Thanks.

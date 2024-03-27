@@ -1,0 +1,38 @@
+Hi, nice to meet you.
+I am very interested in your project and would like to contribute to its completion. I am an ambitious Shopify & WordPress CMS developer with over 5 years of experience as a Shopify&WordPress ECsite developer and good at developing themes and templates.
+I have read your details and can cooperate with you. I am very confident for all skills you want and I can solve this problem perfectly.
+
+This is the URL of  My Project.
+
+https://sassandcobody.com.au/ 
+https://www.tappancollective.com/ 
+https://ionarmor.com
+https://omgmiamiswimwear.myshopify.com/ 
+https://www.innosupps.com/
+https://allgoodscents.com/
+https://zerohalliburton.com/
+
+I look forward to your response.
+Thank you again.
+___________________
+
+Hello,
+I am a professional Full-Stack Developer with extensive experience in this field. Throughout my career, 
+I have successfully completed numerous projects using platforms such as Shopify, WordPress, and MERN Stack. 
+I would be delighted to discuss your project in detail and provide my expertise. Thank you for considering me for this opportunity.
+Best regards,
+HaoMing
+
+
+
+
+We are in the process of building our own CRM system in PHP Laravel adn we'd like to add live chat to our website and other SaaS products we have.
+The problem is most of the live chat systems are per-user and demand a minimum user count, costing hundreds of $ per month on a simple live chat.
+
+We're look for a way to build our own live chat so that messages appear in our own crm which we can respond to natively from our CRM, without any external dashboard or login.
+
+The main focus really is on the live chat widget to appear on a the website(s). All chat messages should be pub/sub from our own CRM without any real middleware that requires users to be setup etc.
+
+At this point I think I after just some light ideas from anyone whos done this - e.g. is it even viable? Or is there something OpenSource which can achieve this and we can engage with you to consult / advise if you have prior knowledge on it.
+
+Our existing team is Indian based, so some understand and patience in the language barrier is required.

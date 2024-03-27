@@ -1,0 +1,11 @@
+***********************************************
+ASP.Net Development | Application Development
+***********************************************
+
+.NET Framework, C#, ETL, SOAP, Swagger, AWS Lamda, Database Design, Desktop Application, C++, macOS, API, 
+
+
+
+
+==========================.Net
+

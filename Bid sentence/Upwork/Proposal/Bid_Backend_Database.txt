@@ -1,0 +1,49 @@
+*************************************
+	• ETL Pipeline, Snowflake
+
+*************************************
+Backend Development | Python developer
+Back-End Development, Amazon Web Service, API, Python, Golang, PostgreSQL, Database Management, CRM development, MongoDB, MySQL, Data Extraction, 
+
+
+====================
+
+
+=======================
+Hello there,
+
+I have already done a similar Stripe Coupon API Web App, I can develop the same as per your requirements for you as i have developed many WEB-APP before with over 8+ years of experience.
+
+My major skills are:
+Web Development
+• Frameworks: Laravel, Code Igniter, Yii, CakePHP, Symfony, ExpressJS
+• Scripting language: JS, Jquery, AJAX, Angular, NodeJS, ReactJS.
+• PHP/MySQL (OOP)
+• Database: MongoDB, SQLlite, PostgreSQL, MySQL.
+• Mobile applications iOS, Android.
+
+Some projects I have done:
+www.jumpersworldagency.com
+www.verifico.com
+www.theblondeabroad.com
+https://play.google.com/store/apps/details?id=lone_tree.link
+https://play.google.com/store/apps/details?id=com.deliveryondemanduser.app
+
+I am looking forward to a quick response.
+
+====================
+Genie
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the position of Backend/API Architect at your company. With my extensive experience in backend system design, migration, and implementation, I believe that I have the skills and expertise necessary to lead the transformation of your legacy API into a modern, scalable, and efficient framework.
+
+Throughout my career, I have successfully architected and designed backend systems and APIs, ensuring alignment with business requirements. Drawing upon my deep understanding of technologies such as TypeScript/Node.js or Deno, AWS, and MongoDB, I have optimized performance, scalability, and reliability for various mobile applications. My focus on leveraging our tech stack and integrating open-source frameworks has consistently resulted in robust and efficient backend solutions.
+
+One of my key strengths is leading migrations of legacy systems to new frameworks while ensuring minimal disruption to ongoing operations. I have successfully managed complex migrations, carefully planning and implementing each step to guarantee a seamless transition. Additionally, my proficiency in utilizing AWS services allows me to leverage cloud-native solutions effectively, creating a robust backend infrastructure that can scale with the growth of your application.
+
+In addition to my technical capabilities, I also possess strong leadership and mentoring skills. As an experienced architect, I have mentored junior engineering teams, guiding them in best practices, code reviews, and architectural decisions. I genuinely enjoy sharing knowledge and helping others grow as engineers.
+
+I am excited about the opportunity to contribute to your team and play a pivotal role in transforming your API into a modern, scalable, and efficient framework. Thank you for considering my application. I look forward to the possibility of discussing this position further.
+
+Sincerely,

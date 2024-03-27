@@ -1,0 +1,92 @@
+Dear Client,
+
+As a seasoned Full Stack Developer with over 9 years of experience, I specialize in web scraping and data manipulation. I understand you need a script to scrape prices from a wholesale platform using EANs, compare these prices on a marketplace, and provide an output in Excel or TXT format. I can certainly help with this. However, I'd like to clarify that I work on a fixed-price basis for projects. We can discuss the details and pricing further in our chat. Looking forward to hearing from you.
+
+Best Regards
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+✔Scraping Expert✔
+
+Dear Sir,
+
+👋Hello!👋
+As a highly skilled Scraping Expert, I can help you with perfect.
+I have strong experience in web scraping for more than 8 years.
+I use different tools and techniques to scrape the websites depending on the kind of task but mainly python(Scrapy), C#, JavaScript(Node.js), Puppeteer, Webscrap.io, Selenium WebDriver and PHP. I think I can be the best person you want. Please contact me to discuss more regarding this project.
+
+Experience.
+- Various NLP systems such as Q&A, text generation and ChatPDF using the OpenAI and Hugging Face model.
+- Website with ChatBot. It's for employee assistance. Langchain and pinecone are used.
+- Text2Sql system for data extraction from the database.
+- Financial data analysis system, especially stock market data with web scraping.
+- E-commerce website with Django and Laravel.
+- Auto translation system with OpenAI whisper model. From French voice to english voice and text.
+- Matlab image processing program.
+
+❤️Thanks and regards.❤️
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+====================================================
+
+Hi there! 😄👋
+
+Oh, the world of APIs and spreadsheets, where the cells are a canvas, and the data, a paintbrush! 🎨 I'm Chris, your friendly neighborhood developer, here to turn your data extraction dreams into a comedic reality! 🤓
+
+Picture this: Two companies, two sets of data, and one hilarious developer (that's me!) juggling the numbers like a circus clown. 🤹‍♂️ I've danced with APIs more times than I've hit the snooze button on a Monday morning! My secret? I speak fluent API-ese. 🗣️💻
+
+I've got a tale for you: Once upon a code, I connected an API that was more temperamental than a cat on a hot tin roof. But fear not! With a sprinkle of patience and a dash of humor, I tamed that digital beast, and we've been best friends ever since. 😹👯‍♂️
+
+By choosing me, you're not just getting a developer; you're getting a data wizard who'll make your Excel cells do the cha-cha. 💃✨ My custom solutions are like a perfectly tailored suit – they just fit. And your PowerBi dashboard? It'll be so up-to-date, it'll tell you what you had for breakfast before you've even decided. 🍳🔮
+
+Let's get those APIs spilling their secrets into your spreadsheets with the elegance of a swan doing ballet. 🦢🩰 When can we chat about making your data dance to the rhythm of success? 🎶
+
+Looking forward to your reply!
+
+
+========================================================
+
+Greeting!
+
+I am thrilled about the job opportunity you have posted. With over 7 years of experience in AI and Data Science, I have worked extensively on machine learning algorithms, NLP, Computer Vision, and Audio Processing. My skills and expertise make me well-suited to contribute significantly to your projects.
+
+Throughout my career, I have designed numerous AI solutions and successfully integrated various machine learning models into these solutions. I have a proven track record of optimizing performance and ensuring scalability of models. In my previous projects, I have implemented machine learning models for forecasting and recommendation systems, which have resulted in increased revenue for both my companies and clients.
+
+With a deep understanding of OpenAI models like ChatGPT, open source LLMs such as Llama2, Claude2, Falcon, and Mistral, and Vectorbases like Pinecone and ChromaDB, I have successfully developed online and offline chatbots. I also have experience in troubleshooting common fine-tuning errors and ensuring smooth runtime with accurate outputs.
+
+In the field of computer vision, I have rich experience in image segmentation, real-time face swapping, and lip synchronization, which have greatly benefited marketing and advertising efforts. Additionally, I have focused on audio processing, specifically in TTS (text-to-speech) models. I have researched and improved the generation speed and voice quality, achieving similar performance to Air.ai products.
+
+Furthermore, I possess extensive web development experience and am proficient in the MERN stack and fastapi. I am capable of independently implementing any web application, including both frontend and backend development.
+
+I am available to discuss my qualifications further through chat or call, and I am ready to start working immediately, dedicating my full-time availability to your business.
+
+I am genuinely excited about this opportunity and eagerly await our meeting.
+
+Thank you.
+
+======================================================
+
+Hi,
+I've caught your data extraction vision,
+With API access, I'll make a precision.
+To feed the spreadsheets, I'll create a command,
+Updating monthly, like a symphony planned.
+
+Now, let me ask, have you tried this before?
+Implementing ___, we can soar.
+My deep tech expertise will surely impress,
+Creating a PowerBi dashboard, no less.
+
+I'll address your requests with utmost care,
+Handling two companies, separate and fair.
+So, when can we chat about this exciting task?
+Let's connect and make our ideas clash!
+
+Best wishes,
+Harry Huang 😊🎉
+

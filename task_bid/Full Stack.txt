@@ -1,0 +1,327 @@
+Hello.
+How are you?
+I am professional Web Developer with over 8+ years of web development experience.
+I believe that my skills are a great match, and I'd love the opportunity working with you.
+I am not constrained by timezone and will keep flexible working with you.
+
+You can take a look at some of my previous projects:
+https://tmra.io (next, nest, graphql, mongodb)
+https://footyamigo.com (vue, nuxt, python, node, mongodb)
+https://fleet.roadprotect.co.il/  (angular, node, mysql, express)
+https://duxiana.com   (react, gatesby, python, grahpql)
+https://mypwd.io/ (HTML/CSS, jQuery, Bootstrap, React.js/ Redux, Asp.net)
+https://app.planmoretrips.com/ (React.js/Redux, Firebase)
+https://therundown.io/ (React.js/Redux, Golang)
+https://house.spiiderr.com(Chatbot)
+
+[My skills]
+✔️Blockchain
+✔️MERN Stack
+✔️MEAN Stack  
+✔️MEVN Stack 
+✔️MVC(Laravel, Codeigniter)
+✔️Python, Django, ChatGPT
+✔️Vitejs, Nuxtjs, Nextjs, Nestjs
+✔️SCSS, SASS, Github, Git, AWS, TailwindCss, MUI, Antd
+✔️Git, Jira, CI/CD, Docker
+
+I am ready for you so just feel free to message me anytime.
+Looking forward to hearing from you.
+Best regards.
+___________________________________________________________________
+
+
+Hello, 
+I am a professional Full-Stack developer with extensive experience in various projects, including WordPress and MERN Stack. I have a proven track record of delivering excellent results. If given the opportunity, I am confident that I can successfully complete your project to your satisfaction. Thank you for considering my application. 
+Best regards, 
+HaoMing
+__________________________________________________
+
+
+www.jsmastery.pro
+
+
+👋Hello!👋
+As a full-stack developer, I'm excited to apply my skills and knowledge to contribute into your company and help build your innovative website.
+I have extensive experience with frontend and backend.
+I'm very familiar with React.js, Vue.js, Next.js, Laravel as frontend framework and related technology, including javascript language and php language.
+As backend developer I'm very confident with node.js, Django, Rail, Laravel framework and related technology, including express, python language, Ruby and php language.
+I have strong understanding of building database like MySQL, MongoDB, Firebase and third party libraries. 
+My ability to integrate backend into frontend with Restful API help me build scalable and Robust web application.
+I have built multiple websites using ChatGPT and machine learning chatbot,  including finance website , Ecommerce website and so on.
+I am very familiar with Agile methodology and Git for project management, team collaboration and version control. I am confident that my skills and experience make me a strong candidate for your project.
+
+[My experience]
+✔️https://tmra.io (next, nest, graphql, mongodb)
+✔️https://footyamigo.com (vue, nuxt, python, node, mongodb)
+✔️https://fleet.roadprotect.co.il/  (angular, node, mysql, express)
+✔️https://duxiana.com   (react, gatesby, python, grahpql)
+✔️https://mypwd.io/ (HTML/CSS, jQuery, Bootstrap, React.js/ Redux, Asp.net)
+✔️https://app.planmoretrips.com/ (React.js/Redux, Firebase)
+✔️https://therundown.io/ (React.js/Redux, Golang)
+✔️https://house.spiiderr.com(Chatbot)
+
+[My skills]
+✔️Blockchain
+✔️MERN Stack
+✔️MEAN Stack  
+✔️MEVN Stack 
+✔️MVC(Laravel, Codeigniter)
+✔️Python, Django, ChatGPT
+✔️Vitejs, Nuxtjs, Nextjs, Nestjs
+✔️Ecommerce, Elementor, WPBakery, SEO, Speed Optimization
+✔️SCSS, SASS, Github, Git, AWS, TailwindCss, MUI, Antd
+✔️Git, Jira, CI/CD, Docker
+
+Thank you for considering my application. I look forward to discussing details of your project with you soon.
+
+
+Hi👋,
+As a full-stack developer, I'm excited to apply my skills and knowledge to contribute into your company and help build your innovative website.
+
+Experience.
+- Various NLP systems such as Q&A, text generation and ChatPDF using the OpenAI and Hugging Face model.
+- Website with ChatBot. It's for employee assistance. Langchain and pinecone are used.
+- Text2Sql system for data extraction from the database.
+- Financial data analysis system, especially stock market data with web scraping.
+- E-commerce website with Django and Laravel.
+- Auto translation system with OpenAI whisper model. From French voice to english voice and text.
+- Matlab image processing program.
+
+[My prvious work]
+✔️https://tmra.io (next, nest, graphql, mongodb)
+✔️https://footyamigo.com (vue, nuxt, python, node, mongodb)
+✔️https://fleet.roadprotect.co.il/  (angular, node, mysql, express)
+✔️https://duxiana.com   (react, gatesby, python, grahpql)
+✔️https://mypwd.io/ (HTML/CSS, jQuery, Bootstrap, React.js/ Redux, Asp.net)
+✔️https://app.planmoretrips.com/ (React.js/Redux, Firebase)
+✔️https://therundown.io/ (React.js/Redux, Golang)
+✔️https://house.spiiderr.com(Chatbot)
+
+[My skills]
+✔️Blockchain
+✔️MERN Stack
+✔️MEAN Stack  
+✔️MEVN Stack 
+✔️MVC(Laravel, Codeigniter)
+✔️Python, Django, ChatGPT
+✔️Vitejs, Nuxtjs, Nextjs, Nestjs
+✔️Ecommerce, Elementor, WPBakery, SEO, Speed Optimization
+✔️SCSS, SASS, Github, Git, AWS, TailwindCss, MUI, Antd
+✔️Git, Jira, CI/CD, Docker
+
+Thank you for considering my application. I look forward to discussing details of your project with you soon.
+
+========================================================
+
+👋Hi,Looking for a skilled and personalized web application development service? Look no further! 
+💪I am an experienced web developer who can deliver a custom solution tailored to your unique business needs. I specialize in using cutting-edge technologies like PHP, JavaScript, HTML5, CSS3, to build scalable, secure, and user-friendly web applications that are optimized for performance.
+
+Additionally, my web applications are fully responsive, ensuring they look great and perform well on any device.
+
+As an individual, I am dedicated to providing exceptional customer service. I work closely with my clients throughout the development process, providing regular updates and ensuring a hassle-free experience from the initial consultation to the final deployment of your web application.
+
+✨Whether you need a booking system, content management system, financial management system, or any other type of web application, I have the expertise to deliver a custom solution that meets your needs. So, if you want a reliable and experienced web developer who can help you build a custom web application, contact me today to schedule a consultation and learn more about my services!
+
+========================================================
+👋Hi,
+I'm a 💪Top Rated Plus Freelancer having 10+ years of experience💪 in building complex web applications for enterprises, the likes of staff management software, Invoicing software, Healthcare software, Web based POS, Hotel Booking software, Ticket Reservations software and many others.👌I’m familiar with all the latest programming technologies and can provide valuable web solutions for the companies who never compromise on quality.
+⚡️⚡️⚡️
+✓ Buy with Confidence
+✓ Hundreds of five star Feedbacks
+✓ Part of a Top selling & trusted web application development agency on Upwork.
+✓ 14,000+ Working Hours in the journey of building complex web applications.
+⚡️⚡️⚡️
+This is what you'll get in this offer:
+- Consultation for the Best Possible Solutions against your expectations from the Software
+- A Complete Architecture of the Software according to latest Trends
+- Structural Programming and Database Management so that software can be scaled up to any level in future
+- Content Management System for managing every part of the software dynamically
+- Different Administrative Access based on assigned Roles
+- Security Features
+- Designed Manuals for Users and Administrative Staff
+- 2 Months of Free Technical Support
+
+=============================================================
+
+
+
+👋Hi
+💪I am 6+ years of highly experienced and successful proven track record developer and capable of building custom web applications for you.💪
+
+I am skilled with frontend skills such as Angular.js, Vue.js, React.js, and backend Laravel and Node.js. I have built Custom Websites, custom CRMs, Web applications, and SaaS solutions from scratch.
+
+✨[My expertise]
+• Complete website development as per your need
+• Converting designs into pixel-perfect responsive static UIs
+• Implementing API integration on the front end of the application
+• Developing or fixing Restful APIs
+• Full-stack website development
+• Provide neat & clean code
+• Fix Security and Performance issues
+• Bug Fixing
+• APIs integration in the Web App
+• Complete the project within your timeframe
+• Deployment of the Web App
+
+✨[My working style]
+✦ Customer Focus
+  Respect and understand clients' needs, your freelancer's goal is to give customers 150%-satisfaction.
+✦ Best Works
+  Always, your freelancer will achieve effectiveness, high quality, and fastest delivery, maintenance.
+✦ Innovate and Change
+  Strive to make today better than yesterday, your freelancer value self-development and continuous improvement.
+
+👌I am ready to start the work immediately just after your confirmation.👌
+Looking forward to your order!!
+
+Thanks!!
+
+==================================================================
+
+Hi there!👋
+🖋 I would be honored to work with you on a creative, state-of-the-art product so we can improve people's lives together. I’ll help you build a modern and complex product. After the project is finished, I offer maintenance to ensure a high quality, bug-free product as I value my client and the product we’re building and want to have a long term partnership with my clients.
+
+🖋 I have worked with various technologies in different projects and been in charge of system architecture and software development in different teams. However I'm not a ui/ux designer but I can deliver a pixel-perfect app if you provide me with a good design.
+
+🖋 I believe the path to making a successful product, is through learning and developing my skills in every stage, that's why I'm always eager to learn and grow both in my technical skills, and in personal development (like mutual respect, patience and understanding, ...).
+
+🖋 If you need a consultation, i can help you choose your stack in a way that best fits your product needs and can be easily developed and maintained.
+
+Skills: 💻☕️
+Frontend:
+⚘ Javascript, React.js, Vue.js, Next.js, Nuxt.js
+⚘ Material UI, TailwindCSS, Vuetify, FramerMotion, Sass/SCSS, Bootstrap, Redux, Vuex, React Query, Apollo
+
+Backend:
+⚘ Python, Node.js, Php, Django, Flask, Fastapi, Express, NestJs, Laravel
+⚘ RestApi, Graphql, gRPC, Socket Programming, API development
+
+Database:
+⚘ PostgresQl, MongoDB, MySql, Cassandra, Prometheus
+⚘ ElasticSearch, Kibana, ELK stack
+
+Deployment/Devops:
+⚘ AWS, GCP, DigitalOcean, EC2, Droplets, Serverless, Lambda, functions, Linux, System Administration
+⚘ Docker, Docker Compose, Kubernetes, Docker Swarm, Nginx, Traefik, Minio, S3 buckets
+
+Other Services:
+⚘ RabbitMQ, Redis, Messaging Queues, Celery, Apache Kafka
+⚘ Metabase, Grafana, Kibana
+⚘ Unit/Integration Testing
+⚘ Scraping, Chat system, Chat bot, RocketChat, Jitsi, WebRTC
+
+
+✔️ I'll help you shine with a great product. ✨
+
+=========================================
+
+✅ Launched the NO-CODE platform SmartSuite, that went from $0 to $1.2M ARR in 4 weeks
+✅ Developed 70+ projects
+✅ Top 10 Web Development Companies at Goodfirms
+✅ Among Top at Clutch
+
+For more than 12 years, I’ve been leading the web development company providing high-quality web development services to startups and mature companies. We are rated as top developers on Clutch and Goodfirms, where you can get reliable feedback on the process and results of our work.
+
+Currently, my team consists of 36 highly qualified specialists, and all developers are experts.
+
+I, together with my team, have built a SmartSuite Work Management Platform that successfully competes with Notion and Airtable, and even surpasses them in some features.
+It is a no-code cloud based platform that allows to plan, track, and manage any type of workflow for businesses of any size in any industry.
+● We have developed over 200 predefined templates for various organizational functions and industries.
+● Created visual interfaces such as Kanban views, Map views, Calendar views, Dashboards, Smart Docs, Collaboration, Grid views, and Chart views.
+● Built Zapier, Make, Ply integrations and APIs
+● Our team leads the entire development of the project, as there are several other development teams. So we have a good understanding of the interaction between teams on large projects.
+● SmartSuite went from $0 to $1.2M ARR in 4 weeks after launch. So we know exactly how to be useful in no-code development.
+
+Domains which I and my team have worked with (including but not limited to):
+❯ FinTech & Вanking
+❯ Healthcare and BioTech
+❯ Government & Public Sector
+❯ Media
+❯ E-Commerce
+❯ Real Estate
+
+Tech stack:
+❯ Frontend: React, TypeScript, JavaScript, Vue.js, Next.js
+❯ Backend: FastAPI, Django, Python, Node.js, GraphQL
+❯ Databases & search engines: PostgreSQL, MongoDB, Elasticsearch
+❯ DevOps: Amazon Web Services, DigitalOcean, Kubernetes, Docker, GitHub CI, GitLab CI
+❯ Quality Assurance Testing: Cypress, Jest, Pytest, Playwright, Selenium
+
+I’ve led the development of projects in different areas, but I’m especially good at creating projects for workflow, data and processes organization:
+❯ No-code platforms: E-Commerce, Education, Banking, FinTech and Payments, Manufacturing
+❯ PMS: Marketing, Information & Publishing, Finance & Insurance, Healthcare, Construction & Engineering
+❯ CRM: Retail, Insurance, Logistics, Banking, Healthcare
+❯ ERP: Manufacturing, Distribution, Hospitality, Healthcare, Retail, Construction
+❯ SaaS products: E-Learning, Government, Manufacturing, Telecom, Healthcare & Wellness
+❯ Data crawlers: BioTech & Healthcare, Media, Real Estate, Finance, Tourism
+❯ Search engines: Media, E-Commerce, Law, Industrial & Manufacturing Goods
+
+Drop me a line when you have an idea for your next project.
+
+================================
+
+
+✦ Full Stack Developer | React, React Native, Angular Ts, Ionic, Cordova, Next Js, Nest js, Tailwind CSS, Vue Js, Node Js, Express js, Firebase ✦
+
+Welcome to my profile! With 8 years of experience as a Full Stack Developer, I specialize in a wide range of technologies and offer comprehensive solutions for Web, Android, iOS, and Windows platforms. Here's what sets me apart:
+
+⚡️ Web Development Services ⚡️
+
+React: Harness the power of React to build fast, scalable, and interactive web applications. I excel in creating robust front-end interfaces using React's component-based architecture.
+
+Angular Ts: Leverage the Angular framework to create dynamic and feature-rich web applications. I possess expertise in Angular TypeScript, delivering seamless user experiences.
+
+Next Js: Enhance your website's performance and SEO capabilities with Next Js. I can create server-side rendered (SSR) applications that load quickly and rank higher in search engines.
+
+Vue Js: Embrace Vue Js for efficient front-end development. I can create responsive and interactive user interfaces using Vue's intuitive syntax and component-based architecture.
+
+Tailwind CSS: Create visually stunning and responsive designs with Tailwind CSS. I am adept at utilizing Tailwind's utility-first approach to build custom and scalable UIs.
+
+⚡️ Mobile Development Services ⚡️
+
+React Native: Build cross-platform mobile applications using React Native. I have expertise in creating native-like experiences for both iOS and Android platforms.
+
+Ionic & Cordova: Leverage the power of Ionic and Cordova to develop hybrid mobile applications. I can create apps that run seamlessly across multiple platforms.
+
+⚡️ Backend Development Services ⚡️
+
+Node Js & Express Js: Develop efficient and scalable backend systems using Node Js and Express Js. I excel in creating RESTful APIs, handling data operations, and implementing authentication mechanisms.
+
+Nest Js: Benefit from the robustness of Nest Js for server-side development. I can create scalable and modular applications using Nest Js's powerful dependency injection and module-based architecture.
+
+Firebase: Leverage Firebase to build real-time and cloud-based applications. I have hands-on experience in implementing Firebase's authentication, database, storage, and cloud messaging features.
+
+⚡️ DevOps & Testing Services ⚡️
+
+AWS & Ms. Azure: Utilize the capabilities of cloud platforms like AWS and Ms. Azure to deploy, scale, and manage your applications. I am well-versed in configuring cloud infrastructure and optimizing application performance.
+
+Netlify: Maximize your web application's deployment efficiency with Netlify. I can seamlessly deploy static websites, serverless functions, and continuous integration workflows using Netlify.
+
+Docker: Employ Docker to create lightweight and portable containers for your applications. I possess expertise in containerization, enabling efficient deployment and scalability.
+
+QA & Testing: Ensure the quality and reliability of your software through comprehensive testing. I am proficient in using industry-standard testing tools like Jest, Selenium, and Storybook to conduct thorough quality assurance.
+
+With a solid background as a technical lead and experience in managing complex databases, I am equipped to handle projects of any scale. I am committed to delivering exceptional results, meeting deadlines, and exceeding client expectations.
+
+Expert Facebook/Instagram/Telegram/WhatsApp Chatbot Developer
+✅ Expert in API integration
+✅ Expert Facebook API Developer
+✅ Expert Instagram API Developer
+✅ Openai & ChatGPT Integration with Messenger Chatbot & Instagram Chatbot
+✅ Expert in Email scraping automation
+✅ Expert in SaaS Web application development.
+✅ Expert Facebook/Instagram Comment Automation
+✅ Expert in Marketing Automation Software
+✅ Expert in Social Media Posting Automation
+✅ Expert in Webhook/IPN/Cron Job Technology
+✅ Expert in WordPress Plugin Development
+✅ Expert in Ui/UX development and mobile responsiveness.
+✅ Expert in managing and leading huge teams.
+✅ Expert in creating POS, E-Commerce apps.
+✅ Expert in building travel, hoteling and tourism Apps.
+
+Let's collaborate to bring your ideas to life! Contact me today to discuss your project requirements and take a step towards achieving your goals.
+
+
+

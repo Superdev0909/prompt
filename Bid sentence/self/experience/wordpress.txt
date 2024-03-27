@@ -1,0 +1,1 @@
+A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.

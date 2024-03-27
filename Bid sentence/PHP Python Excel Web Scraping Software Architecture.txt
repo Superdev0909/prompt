@@ -1,0 +1,27 @@
+⭐Gheorghi C.
+@chirgeo
+verified.svg
+5.0
+172
+8.0
+100%
+Flag of 
+Moldova, Republic Of
+Software Engineer, CoFounder at crawless.com
+$500.00 USD
+in 3 days⭐
+
+Hi, I'm George and I specialize in developing web crawlers. I have extensive experience in writing scraping scripts and am confident I can complete your project accurately and efficiently.
+
+I understand that the data you need to scrape from the websites include Products, Pricing and Customer Reviews and that you'd like the data to be in a CSV format.
+
+I would also like to inform you that we wrote and implemented a custom web scrapping tool for a clients in the past who needed to scrape Products, Pricing and Customer Reviews, and the project was a great success.
+
+Here are some questions I have for you in order to complete the project:
+1. How many websites will you need me to scrape the data from?
+2. Are the websites private or public?
+3. When do you need the results delivered by?
+4. Do you have any means of verifying the accuracy of the results?
+5. Are you looking for any other services to be done in addition to the scraping?
+
+Thank you for your time, I look forward to hearing back from you.

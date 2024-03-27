@@ -1,0 +1,25 @@
+🟢🟢🟢Hello~
+
+Got a moment to chat about your project?  𝐖𝐞 𝐝𝐢𝐝 𝐚 𝐬𝐢𝐦𝐢𝐥𝐚𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐞𝐟𝐨𝐫𝐞. 
+
+As for the experience, here are some of our relevant projects:
+1. We implemented scraping from http://taxsearch.polkcountyiowa.gov/Search, https://salesweb.civilview.com/Sales/SalesSearch, http://landrecords.polkcountyiowa.gov/LandRecords/protected/SrchQuickName.aspx
+Scraped phone numbers from https://www.whitepages.com based on scraped data (address and zip code) from the Polk County Assessor http://web.assess.co.polk.ia.us/.
+
+2. We delivered a system that collects vacancies description from 3 different websites (Glassdoor, ESL Cafe, Indeed), using provided query templates and keywords for a search. The system is scalable, so more websites to scrape can be easily added with system updates. Challenges were overcoming scraping protection and customizing parser to search based on free-form text. The parser extracts specific fields, including requirements to the candidate, description of the job, and salary.
+Scraped data were sent on client`s API to Wordpress website. Integration with existing systems of a client, such as Microsoft Flow, Visual Studio SSIS, MS Azure SQL database and PowerBI, was performed in order to optimize and improve efficiency.
+
+To provide you with a solid implementation plan, I'd love to dive a bit deeper.
+Could you share a few more details so we can make sure it's tailored just right:
+1. Do you have any preferences in the programming language or would rely on my experience?
+2. I wonder whether you have any deadline for your project? It is important to know to select the most efficient approach for implementing your project in time.
+3. What data do you need to extract from the API?
+4. In what format is the data provided via AP?
+
+Don't worry, we understand that you might not have all the details and answers yet.
+
+If you are interested in a professional solution and you would like to receive a consultation and an evaluation of your project from us, we guarantee you an answer from our side within 10 minutes, immediately after yours.
+
+Thank you for your time for reading this letter.
+Let’s meet in chat to discuss the details and address any questions you may have.
+Ready when you are!

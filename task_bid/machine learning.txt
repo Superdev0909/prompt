@@ -1,0 +1,21 @@
+Hi, I understand you need Machine Learning expert for sound recognition. I offer my services for this project. I have made many projects related to Machine Learning using Python as follows;
+• Speech Recognition System using Bayesian Framework.
+• Sensorless Drive Diagnosis using Logistic Regression.
+• Disease extent Prediction of ECG data using Random Forest & SVM.
+• Attendance Management System using Image Recognition.
+• Lower Back Pain Symptoms Classification using SVM, KNN, DT & NB.
+• Face liveness detection using SVM & HOG.
+• MNIST based Handwritten Digit Recognition using KNN, NB, PCA, LFD & SOM.
+• Handwritten Digit Recognition using Fourier response & SVM.
+• IOT Attacks Prediction using SVM, Decision Tree & Random Forest.
+• Time Series Price Forecasting using Random Forest.
+• Classification of dementia disease using XGboost & Logistics Regression.
+• Classification of Iris & Breast cancer using SVM, Decision Tree, neural network & Naive Bayes.
+• Classification of Muffin & Cupcake ingredient data using SVM.
+• Classification of Nursery data using SVM & Logistic regression.
+• Classification of Milk, Sugar, Butter, Egg, Baking Powder, Vanilla, Salt using KNN.
+• Prediction of Solar Radiance using SVM & Bayesian Ridge.
+• Regression of Boston & Diabetes using Decision Tree, KNN & neural network.
+• Load forecasting using Decision Tree.
+• Solar Irradiance forecasting using Decision Tree.
+I ensure to complete your project efficiently and on time.

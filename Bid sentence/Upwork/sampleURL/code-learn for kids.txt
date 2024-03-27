@@ -1,0 +1,18 @@
+1. Home
+2. About Us
+3. Courses(Course List)
+https://aicodx.com/home/courses
+4. Course Detail
+https://aicodx.com/home/course/python-programming-for-kids-an-introduction-to-the-basics/2
+5. Price
+6. Project
+7. Contact
+
+Sample sites:
+https://scratch.mit.edu/explore/projects/all
+https://code.org/
+https://www.khanacademy.org/computing/computer-programming
+https://www.codecademy.com/
+https://www.tynker.com/
+https://www.pypypy.cn/app#/
+https://www.educative.io/courses/javascript-in-detail-from-beginner-to-advanced

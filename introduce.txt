@@ -1,0 +1,197 @@
+
+
+
+================introduce================
+As a freelance developer with over 500 satisfied clients from around the world, I provide elite programming solutions that blend professionalism with a casual approach. Whether you need a website built from scratch, an app developed, or custom software created, I have the skills and expertise to deliver high-quality results on time and within budget.
+
+With years of experience working as a programmer on demand, I understand the importance of clear communication and collaboration. That's why I strive to build long-term relationships with my clients, taking the time to understand their unique needs and goals.
+
+From the initial consultation to final delivery, I work closely with my clients every step of the way, providing regular updates and feedback to ensure that their vision is brought to life. So if you're looking for a reliable and talented developer to help take your project to the next level, look no further than my elite programming solutions.
+
+
+
+--------------------------------------------------
+
+
+With over 10+ years of distinguished experience in this field, I bring forth an exceptional skill set encompassing web design, development, and digital marketing. My career journey spans engagements with a spectrum of organizations, ranging from nascent ventures to globally recognized establishments across the globe.
+
+My expertise in:
+
+➡️Graphic Design : Figma, Framer, Adobe Photoshop
+
+➡️Front-end development: HTML, CSS, Bootstrap, Javascript, jQuery, Bootstrap, PHP, SASS, UI/UX;
+
+➡️CMS:: WordPress, Wix, Weebly, Squarespace, Webflow, Joomla, Prestashop, Shopify, Drupal, Hubspot, Magento, Opencart, Kajabi, BigCommerce, CS-Cart.
+
+➡️Framework:: Laravel, CodeIgniter, Symphony, Yii/Yii2.
+
+➡️Digital Marketing:: SEO, SMM, PPC, On-Page, Off-Page, Yelp Review Management, ORM(Online Reputation Management), Amazon FBA.
+
+➡️Hosting: AWS, Godaddy, Hostinger, Hostgator, SiteGround, BlueHost;
+
+➡️API integrations: Payment Gateways, PayPal, Stripe, Klarna, [login to view URL], REST APIs, Facebook, Twitter, Gmail, and other Third-party API's;
+
+Cultivating enduring partnerships is my priority. While I thrive on substantial projects, no task is too small. I'm eager to collaborate, confident you'll be delighted with the experience and return for more. Reach out today and let's embark on your task together.
+
+
+=============================================================
+
+With over 10+ years of distinguished experience in this field, I bring forth an exceptional skill set encompassing web design, development, and digital marketing. My career journey spans engagements with a spectrum of organizations, ranging from nascent ventures to globally recognized establishments across the globe.
+Cultivating enduring partnerships is my priority. While I thrive on substantial projects, no task is too small. I'm eager to collaborate, confident you'll be delighted with the experience and return for more. Reach out today and let's embark on your task together.
+
+
+
+
+
+
+
+
+Experienced Software Engineer with more than 7+ years of extensive Full-stack
+Website/Mobile/Blockchain/ ChatGPT developer.
+
+Daily playground:-
+⩥ React.JS | Next.JS |Angular | Express.JS | Node.JS | ReactFlow | Redux | CSS | HTML | Javascript | MongoDB
+
+⩥ Python | Django | Flask | FastAPI | AWS | Selenium | RESTAPI
+
+⩥ Flutter/Dart | FlutterFlow | Firebase | AWS | Hybrid\Native | iOS | Android
+
+⩥ Blockchain | Smart Contract | Solidity | YII2 | WEB3 | Ethereum | NFT | Smart Chain | NGNIX | ERC20 | Cryptocurrency | Solana | Rust
+
+⩥ GraphQL | AWS | Azure | DevOps | Firebase | MongoDB | MySQL | Postgres
+
+⩥ Unity | 2D, 3D | C# | Adobe Flash/Action Script | ARKit | ARCore | AR, VR (Vuforia)
+
+⩥ChatGPT3 | ChatGPT API.
+
+I pride myself on my ability to offer rapid turnarounds and quality products to my clients. And I would like to do the same for you.
+
+Feel free to send me a quick message here on Freelancer.com so we can chat a bit more about you & your business also the project. I’ll be at my computer for the rest of the day.
+
+
+
+
+
+
+
+Experience
+
+Flutter App Development - Mobile/Web/DesktopFreelance
+Dec 2018 - Present
+Used to with:
+● Management approach: GetX, BLoC / Rx, Provider, SetState,..
+● Database: SQFlite, Firebase - NoSQL, Preferences, Secure Storage,...
+● APIs: Google Maps API, YouTube API, InApp-Purchase, Google Translate API,...
+● Backend services: Restful API, AWS Amplify, Firebase Firestore, Firebase Authentication, Google Crashlytics,..
+● Tools: Android Studio, VS code, Xcode for iOS
+
+
+Android App Development - Java/KotlinFreelance
+Dec 2015 - Present
+- Used to with:
+● Management approach: MVVM, MVC, MVP,..
+● Database: Firebase, MySQL, SQLite,..
+● APIs: Okhttp, Okio, Retrofit, Volley, Google Maps API, YouTube API, InApp-Purchase, Google Translate API,..
+● Data Interchange technology: JSON, Gson, Jsoup, xml,..
+● Backend services: Restful API, AWS Amplify, Firebase Firestore, Firebase Authentication, Google Crashlytics,...
+● Tools: Android Studio, Eclipse.
+
+
+Android developerWeb migrates technologies
+Sep 2018 - Mar 2019 (6 months, 2 days)
+- Role at web migrates technologies:
+● Deal with android SDK.
+● Working experience with JSON and data via REST.
+● Working experience with APIs and third-party libraries.
+● Experience of the mobile development life cycle.
+● Perform upgrades and maintenance while modifying existing apps to improve performance, correct errors, and allow adaptation to new functionality and hardware.
+● Experience on activity and fragment life cycle.
+● Publishing an Android app on Google Play.
+
+==========================================================================================
+
+AI Chatbot ChatGPT Blockchain Web3 OpenAI LangChain Python Developer
+
+
+
+As a software development professional, I not only offer technical help but also make sure I thoroughly understand my clients' businesses. You can count on my full support for all your project needs.
+
+My experience in consulting and business development helps me to advice on your project plan, any tricky bits, and what might be a risk. I work closely with you to make sure we find the best solution for what you need.
+
+I have a team that adapts pretty well - no matter the scale of the task. We're all set to tackle your business challenges using the best web technologies and solutions.
+
+We use tech tools like:
+
+- Artificial Intelligence: Chatbots, ChatGPT, OpenAI API, LLMs, Langchain
+- React, Redux, Node, TypeScript
+- The Blockchain, Ethereum, Solidity
+- Kotlin, Java, Flutter
+- MongoDB, PostgreSQL, MySQL, Redis
+- Social Media and search platforms like Twitter, Google
+- Tools for servers and code like NGINX, GitHub, GitLab, Docker,
+- For design and task management, we check Figma, MailGun, Stripe, Jira.
+
+We've worked with different sectors from Software & Hi-Tech, Artificial Intelligence, Blockchain, Restaurants, Online ordering, E-commerce, IOT to Fashion. So we're pretty sure we can deal with whatever's going on with your project.
+
+Feel free to connect with me to talk about how we can help you reach your goals.
+
+
+Artificial Intelligence
+Prompt Engineering
+Machine Learning
+AI Chatbot
+Chatbot Integration
+Python
+ChatGPT
+Blockchain
+DApps
+Smart Contract
+Solidity
+web3.js
+Blockchain, NFT & Cryptocurrency
+
+
+Employment history
+CTO | Rain Infotech Private Limited
+June 2014 - Present
+
+----
+
+Other experiences
+
+
+Certified Cryptocurrency Expert
+Certified Cryptocurrency Expert™ (CCE) is an advanced level certification and training rendering expertise on Cryptocurrencies and digital assets. Cryptocurrencies are making huge inroads in the process, and they are actively traded and mined nowadays. The CCE credential certifies an individual in the Blockchain discipline of Distributed Ledger Technology from a vendor-neutral perspective.
+
+https://www.credential.net/7e5f0231-59a4-48b5-881a-b234103cd974
+
+
+-----
+
+Certified Smart Contract Developer™
+A Certified Smart Contract Developer is a skilled professional who understands and knows deeply what Smart Contracts is and how to create them wisely over any Blockchain platform by programming it over Solidity. This certification is open to anyone with no prior or minimal experience in Ethereum Blockchain and is curious to become a top blockchain developer.
+
+https://www.credential.net/707f5ef7-3c24-49b2-a7c2-0ee707f3ee58
+
+------
+
+Certified Blockchain Expert™
+A Certified Blockchain Expert is a professional who understands Blockchain technology profoundly and can build Blockchain-based applications for businesses.
+
+https://www.credential.net/6d314bae-809a-440b-97b3-dab93d11ca10
+
+-----
+
+Machine Learning & Deep Learning
+1. Supervised and Unsupervised Learning
+2. Regression and Classification algorithms
+3. Decision Trees, Random Forests, and Boosting
+4. Neural Networks and Deep Learning architectures
+5. Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)
+6. Backpropagation and Gradient Descent
+7. Overfitting and Regularization
+8. Model Selection and Hyperparameter tuning
+9. Feature Engineering and Selection
+10. Model Deployment and Integration into real-world systems
+11. Applications of ML/DL in various industries such as finance, healthcare, and transportation.
+

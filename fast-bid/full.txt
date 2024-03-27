@@ -1,0 +1,142 @@
+𝐇𝐞𝐥𝐥𝐨! 👋 𝐈 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐢𝐝𝐞𝐚 𝐭𝐨 𝐥𝐢𝐟𝐞.
+
+I’m a full stack developer. I’ve worked in this sphere for 8 years. During the years, I’ve accumulated extensive industry experience which includes participation in various web development projects. Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design and develop innovative applications using advanced technologies. From Front end I’m experienced in HTML, CSS, JavaScript, React, Typescript, Angular, Vue.js, jQuery, from Back end I’m experienced in Ruby, PHP, Python, Django, C#, Perl, Java, Golang, SEALA, Django Laravel, Spring, Express, etc. Except for the mentioned technologies I’ve also worked with such design tools as Figma, Sketch, InVision, Adobe XD, Canva, Photoshop. Also, some APIs I’ve used are Google Maps, Twitter, Facebook, Amazon S3, Open Weather Map, Shyscanner, Flight Search, etc. Databases I’ve used are MySQL, MongoDB, Oracle, Postgre SQL, Microsoft SQL, MariaDb.
+
+𝙃𝙚𝙧𝙚 𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙚𝙭𝙖𝙢𝙥𝙡𝙚𝙨 𝙤𝙛 𝙢𝙮 𝙬𝙤𝙧𝙠:
+
+✔ Mereka - Mereka is a learning platform that targets Malaysia's working or corporate people. The users create a profile, subscribe, and can learn extra activities they wish to learn. For example - playing guitar, cooking, gardening, etc. I have also SEO-optimized the website. I am sharing some screenshots of the project below.
+Tech stack - Node (Backend) React, Next(Frontend)
+Link - - https://mereka.io/
+
+✔ Medkart - It's a Indian well-funded startup for pharmacy needs. The website allows users to order their medicines and lab tests online from the comfort of their homes and make payments for them. They can also track their order status.
+Tech stack - Django (Backend) React, Next(Frontend)
+Web Link - https://www.medkart.in/
+
+✔ InnRoad - It's a Software-as-a-Service (SaaS) hotel software solution that seamlessly integrates property management, global distribution, bookings and marketing–all on a single, easy-to-use platform designed exclusively for independent hoteliers, small hotel chains and hotel management companies.
+Tech stack - Node (Backend) Vue(Frontend)
+Link -- https://www.innroad.com/index.php/
+
+✔ Fintech - This is SAAS which is used to provide customer advance while filling taxes. Taxshield helps companies like crosslink to give out cash before IRS processes the return which help crosslink to retain employees.
+Tech stack - Django (Backend) Angular(Frontend)
+Link -- http://www.gettaxshield.com/
+
+
+𝐌𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨: https://marten-willing-ox.ngrok-free.app
+𝐆𝐢𝐭𝐡𝐮𝐛: https://github.com/Superdev0909
+
+
+I am fairly confident that I can handle the project and if you have the same feeling after reading my proposal and checking the profile, I would suggest we should have a call to discuss things in greater detail. I am looking forward to your reply.
+
+Have a great day!
+
+𝐇𝐞𝐥𝐥𝐨! 👋 𝐈 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐭𝐨 𝐛𝐫𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐢𝐝𝐞𝐚 𝐭𝐨 𝐥𝐢𝐟𝐞.
+
+After carefully reviewing the experience requirements for the job description, I feel that I'm very suitable for this job.
+With over a decade of experience, I have a proven track record of successfully handling challenging projects in Full Stack Development, WordPress, Mobile App Design, and more.
+As a seasoned freelancer with over 150 successful projects,I'm well versed in React, Next.js, Tailwind CSS and believe I'm the best fit for your website development venture.
+I'm available to work full-time during daytime hours in the your timezone, ensuring timely delivery of tasks and effective communication with your team.
+
+𝙃𝙚𝙧𝙚 𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙚𝙭𝙖𝙢𝙥𝙡𝙚𝙨 𝙤𝙛 𝙢𝙮 𝙬𝙤𝙧𝙠:
+
+✔ Mereka - Mereka is a learning platform that targets Malaysia's working or corporate people. The users create a profile, subscribe, and can learn extra activities they wish to learn. For example - playing guitar, cooking, gardening, etc. I have also SEO-optimized the website. I am sharing some screenshots of the project below.
+Tech stack - Node (Backend) React, Next(Frontend)
+Link - - https://mereka.io/
+
+✔ Medkart - It's a Indian well-funded startup for pharmacy needs. The website allows users to order their medicines and lab tests online from the comfort of their homes and make payments for them. They can also track their order status.
+Tech stack - Django (Backend) React, Next(Frontend)
+Web Link - https://www.medkart.in/
+
+✔ InnRoad - It's a Software-as-a-Service (SaaS) hotel software solution that seamlessly integrates property management, global distribution, bookings and marketing–all on a single, easy-to-use platform designed exclusively for independent hoteliers, small hotel chains and hotel management companies.
+Tech stack - Node (Backend) Vue(Frontend)
+Link -- https://www.innroad.com/index.php/
+
+✔ Fintech - This is SAAS which is used to provide customer advance while filling taxes. Taxshield helps companies like crosslink to give out cash before IRS processes the return which help crosslink to retain employees.
+Tech stack - Django (Backend) Angular(Frontend)
+Link -- http://www.gettaxshield.com/
+
+𝐌𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨: https://marten-willing-ox.ngrok-free.app
+𝐆𝐢𝐭𝐡𝐮𝐛: https://github.com/Superdev0909
+
+I would like to discuss in more detail further.
+Thank you.
+Yamazaki
+
+
+Utilize automation.
+Continuously groom the test suite.
+Hold peer reviews often.
+Integrate agile processes early.
+Prioritize bug tickets.
+Hold exploratory testing.
+
+
+🍺🥂🍸 𝓓𝓮𝓪𝓻 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭. 𝓛𝓮𝓽'𝓼 𝓫𝓻𝓲𝓷𝓰 𝔂𝓸𝓾𝓻 𝓲𝓭𝓮𝓪 𝓽𝓸 𝓵𝓲𝓯𝓮. 🍻🍷🍹
+
+I'm a 💪Top Rated Plus Freelancer having 10+ years of experience💪 in building complex web applications for enterprises, the likes of staff management software, Invoicing software, Healthcare software, Web based POS, Hotel Booking software, Ticket Reservations software and many others.👌I’m familiar with all the latest programming technologies and can provide valuable web solutions for the companies who never compromise on quality.
+⚡️⚡️⚡️
+✓ Buy with Confidence
+✓ Hundreds of five star Feedbacks
+✓ Part of a Top selling & trusted web application development agency on Upwork.
+✓ 14,000+ Working Hours in the journey of building complex web applications.
+⚡️⚡️⚡️
+This is what you'll get in this offer:
+- Consultation for the Best Possible Solutions against your expectations from the Software
+- A Complete Architecture of the Software according to latest Trends
+- Structural Programming and Database Management so that software can be scaled up to any level in future
+- Content Management System for managing every part of the software dynamically
+- Different Administrative Access based on assigned Roles
+- Security Features
+- Designed Manuals for Users and Administrative Staff
+- 2 Months of Free Technical Support
+
+𝙃𝙚𝙧𝙚 𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙚𝙭𝙖𝙢𝙥𝙡𝙚𝙨 𝙤𝙛 𝙢𝙮 𝙬𝙤𝙧𝙠:
+
+✔ Mereka - Mereka is a learning platform that targets Malaysia's working or corporate people. The users create a profile, subscribe, and can learn extra activities they wish to learn. For example - playing guitar, cooking, gardening, etc. I have also SEO-optimized the website. I am sharing some screenshots of the project below.
+Tech stack - Node (Backend) React, Next(Frontend)
+Link - - https://mereka.io/
+
+✔ Medkart - It's a Indian well-funded startup for pharmacy needs. The website allows users to order their medicines and lab tests online from the comfort of their homes and make payments for them. They can also track their order status.
+Tech stack - Django (Backend) React, Next(Frontend)
+Web Link - https://www.medkart.in/
+
+✔ InnRoad - It's a Software-as-a-Service (SaaS) hotel software solution that seamlessly integrates property management, global distribution, bookings and marketing–all on a single, easy-to-use platform designed exclusively for independent hoteliers, small hotel chains and hotel management companies.
+Tech stack - Node (Backend) Vue(Frontend)
+Link -- https://www.innroad.com/index.php/
+
+✔ Fintech - This is SAAS which is used to provide customer advance while filling taxes. Taxshield helps companies like crosslink to give out cash before IRS processes the return which help crosslink to retain employees.
+Tech stack - Django (Backend) Angular(Frontend)
+Link -- http://www.gettaxshield.com/
+
+𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
+
+React / Redux / Flux, AngularJS / React Hooks
+React Native
+Node JS / Express/ Redis
+GraphQL.js / Express GraphQL server
+Relay / React Apollo / Lokka GraphQL client
+Mongo / Rethink / PostgreSQL / MySQL DB
+Javascript / ES 6 / Typescript
+Html5 / CSS3 / Sass / Less
+Github / Bitbucket / GitLab, Jira / Asana /Trello
+Webpack / Babel / Gulp / Npm / Git
+React Material UI / React Bootstrap
+AWS / Heroku / DigitalOcean
+Facebook / Twitter / Instagram / Stripe / Braintree Integration
+APN, GA (Google Analytics) & GTM (Google Tag Management) & Facebook Analytics
+
+🍺🥂🍸 𝓓𝓮𝓪𝓻 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭. 𝓛𝓮𝓽'𝓼 𝓫𝓻𝓲𝓷𝓰 𝔂𝓸𝓾𝓻 𝓲𝓭𝓮𝓪 𝓽𝓸 𝓵𝓲𝓯𝓮. 🍻🍷🍹
+
+Oh, the world of PDF and Microsof Excel. Where the keys are efficiency and accuracy. I'm Yamazaki your friendly neighborhood developer, here to turn your data extraction dreams into a comedic reality!🤓
+
+Picture this: Auto extraction of data from PDF to Microsoft Excel and one hilarious developer (that's me!) juggling the numbers like a circus clown.🤹‍♂️
+
+I've danced with Zapier more times than I've hit the snooze button on a Monday morning! My secret? I speak fluent python-ese.🗣️💻
+
+I've got a tale for you: Once upon a code, I have converted with complex dataset that was more temperamental than a cat on a hot tin roof.
+But fear not! With a sprinkle of patience and a dash of humor, I tamed that digital beast, and we've been best friends ever since.😹👯‍♂️
+
+By choosing me, you're not just getting a developer; you're getting a data wizard who'll make your Excel cells do the cha-cha.💃✨
+My custom solutions are like a perfectly tailored suit - they just fit. And maintenance? It'll be so up-to-date, it'll tell you what you had for breakfast before you've even decided.🍳🔮
+
+Let's get those dataset spilling their secrets into your spreadsheets with the elegance of a swan doing ballet.🦢🩰
+When can we chat about making your data dance to the rhythm of success?

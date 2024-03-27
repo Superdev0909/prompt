@@ -1,0 +1,17 @@
+
+I hope this message finds you well. My name is Seth Kingry, and I have over 7 years of experience in Chatbot development and Python programming. I have carefully read the requirements for the project and I am confident in my ability to deliver a high-quality solution.
+
+For this project, I will utilize my expertise in Python and software architecture to build a scalable, secure, and reliable backend for your neobank platform. I will integrate with multiple payment providers, design well-structured RESTful APIs, and implement a scalable and reliable database using Postgres. Additionally, I will develop Python-based chatbots for various messaging platforms, ensuring consistent functionality across all channels.
+
+You can find examples of my previous work in my portfolio at
+• https://popl.co/pages/popl-teams
+• https://whatboard.app/
+• https://loopjewelry.com/
+• https://ivisitdoc.com/
+
+
+I take pride in delivering projects that exceed client expectations and I am committed to ensuring your satisfaction. Therefore, I only request payment once you are fully satisfied with the work.
+
+I would be happy to discuss the project further and answer any questions you may have. Please initiate the chat so we can begin the collaboration.
+
+Sincerely,

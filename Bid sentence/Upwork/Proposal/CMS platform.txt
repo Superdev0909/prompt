@@ -1,0 +1,116 @@
+CMS Developemnt | Ecommerce Website
+
+
+
+=======CMS
+ Website Design, Web development, Wordpress, woocommerce, Javascript, PHP,  HTML, CSS, MySQL, API, SEO, 
+
+	• Drupal
+
+	• Magento
+
+	• Joomla
+
+	• Google Blogger
+
+==============
+
+==============Joomla
+Hello,
+I developed CMS portal bofore with Granty platform with Beautiful and Attractive Design with plugins such as Ozio Gallery, EngageBox, JSitemap, ShackToolbox and so on.
+
+I develop web applications and websites using Joomla, PHP + MYSQL and Wordpress.
+I am sharing some of my previous works, please have a look at them.
+
+1. https://www.summitprocesscooling.co.uk/
+2. http://www.fairway-lawns.co.uk/
+3. https://iomega.com.ng/
+4. https://calmhomes.co.uk/
+5. http://claritypi.co.uk/
+6. http://codeittechnologies.com/ogasir/
+7. https://www.codeittechnologies.com/vix/
+8. http://www.cateringhospitalitysupplies.co.uk/
+9. https://www.alicewheelerlondon.co.uk/
+10. http://www.codeittechnologies.com/summitgroup/
+11. https://www.summitsystems.co.uk
+
+I will be happy to discuss further on your project, and look forward to hearing from you on the same.
+
+Thanks & Regards,
+
+
+
+
+===============Magento Project
+
+Hi, I'm a Magento development expert with over 7 years of experience creating marketplaces. I'm confident I can help you in the design phase of your project. To better understand your needs, here are a few questions:
+
+1. Can you provide more details about the specific features you want to include in your Magento marketplace?
+2. Do you already have an idea of the visual design or themes you'd like to use?
+3. Do you plan to integrate existing Magento modules or extensions for specific functionality?
+4. Do you have an idea of the scope of the project and the timeframe for the design phase?
+
+I'd be delighted to have a quick chat to discuss your project in more detail and how best to implement it with Magento 2. I look forward to helping you realize your marketplace.
+
+=======================
+Hello,
+
+I can definitely help as a Magento 2 expert to set up a marketplace using Magento 2 and will support in the design phase.
+
+I have already developed a marketplace store : https://www.postalgifts.co.uk/
+
+I have completed more than 10+ Magento, website projects in the last few years.
+
+Recently, My Developed Extension Live on Magento Marketplace (Ajax Advanced Search Selector)
+https://marketplace.magento.com/malav-advance-search.html
+
+I would request you to send me a message so that we can get started.
+
+Looking forward to potentially working with you and delivering top-quality results!
+Thank you.
+
+=======================Margento Upgrade
+
+Dear Client.
+First of all, I thanks to you for giving me to get this project.
+I have done several e-commerce projects before and I want to do this project.
+I have extensive experience working with Magento2 and have successfully updated and maintained several websites using this platform. I am confident in my ability to update your Magento2 platform to the latest version, while ensuring that all functions of the website continue to work seamlessly.
+I am looking forward your answer.
+Thank you.
+
+
+==============Odoo
+
+Hi Good morning , I have read the brief details on your job listing . I see you have been looking for someone experienced with Software Architecture, PHP, Odoo and Python. Its been 8 years since I have been working on freelancer.com, I have 9 years of experience doing similar jobs. I would request you to check my profile and review projects, feedbacks of projects related to those skills.
+
+Questions:
+
+1. These are all the requirements of your job or do you have more? If yes, Please provide detailed requirements in chat and let me review and get back with queries.
+2. Do you currently have anything done or this job has to be done from scratch?
+3. What is the timeline to get this job done?
+4. Are you open to use 3rd party APIS for it even if they are paid?
+
+Why Choose Me?
+
+1. I have done more than 250 major projects.
+2. I have not received a single bad feedback since last 5-6 years.
+3. You will find 5 star feedback on last 100+ major projects which shows my clients are happy with my work.
+
+===============Odoo
+
+Hi, I am an Odoo developer with 10+ years of experience. I can help you in developing a Python-based local app and deploy it in Odoo 14 for automatic user interaction. The developed application will extract local machine user data, auto-create profiles in Odoo, and discreetly display real-time chats for remote support. It will also enable technical assistance without manual website logins.
+
+I have expertise in Odoo, Python, and Windows OS that will ensure efficient integration, smooth functionalities, and compatibility. I will also test the developed app comprehensively to ensure that all features are perfectly aligned with your requirements and perform the required functions effectively.
+
+Overall, I have done:
+- 17+ Apps on the Odoo store (https://apps.odoo.com/apps/modules/browse?author=Axiom%20World)
+- 100+ Integrations with Odoo
+- 1000+ customizations in Odoo
+- 150+ implementations
+
+Let me know the best time for a meeting to discuss your specific requirements in detail.
+Looking forward to hearing back from you.
+
+Best Regards,
+
+

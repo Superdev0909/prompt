@@ -1,0 +1,40 @@
+Hello.
+How are you?
+I am professional Web Developer with over 8+ years of web development experience.
+I believe that my skills are a great match, and I'd love the opportunity working with you.
+I am not constrained by timezone and will keep flexible working with you.
+
+You can take a look at some of my previous projects:
+https://mypwd.io/ (HTML/CSS, jQuery, Bootstrap, React.js/ Redux, Asp.net)
+https://tmra.io (next, nest, graphql, mongodb)
+https://footyamigo.com (vue, nuxt, python, node, mongodb)
+https://fleet.roadprotect.co.il/  (angular, node, mysql, express)
+https://duxiana.com   (react, gatesby, python, grahpql)
+https://app.planmoretrips.com/ (React.js/Redux, Firebase)
+https://www.memurai.com/ (React.js, Next.js, GraphQL, Node.js)
+https://therundown.io/ (React.js/Redux, Golang)
+
+[My skills]
+✔️Blockchain
+✔️MERN Stack
+✔️MEAN Stack  
+✔️MEVN Stack 
+✔️MVC(Laravel, Codeigniter)
+✔️Python, Django, ChatGPT
+✔️Vitejs, Nuxtjs, Nextjs, Nestjs
+✔️SCSS, SASS, Github, Git, AWS, TailwindCss, MUI, Antd
+✔️Git, Jira, CI/CD, Docker
+
+I am ready for you so just feel free to message me anytime.
+Looking forward to hearing from you.
+Best regards.
+___________________________________________________________________
+
+
+Hello, 
+I am a professional Full-Stack developer with extensive experience in various projects, including WordPress and MERN Stack. I have a proven track record of delivering excellent results. If given the opportunity, I am confident that I can successfully complete your project to your satisfaction. Thank you for considering my application. 
+Best regards, 
+HaoMing
+__________________________________________________
+
+I am looking for an online job for my level of experience and skills. I have been doing with my coding skills nothing for over 4 months and I need a low-paying(because my skills are not good as a professional) job to keep motivated to develop websites. I'm also planning to get back to learn react. I thought upwork would help me and I'm happy to start a new online job.

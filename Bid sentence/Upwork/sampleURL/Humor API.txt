@@ -1,0 +1,12 @@
+POSTman API doc: https://www.postman.com/cs-demo/workspace/public-rest-apis/request/8854915-86a5b520-e907-4eee-95fd-6dcdc24f8a83
+
+https://api-ninjas.com/api/jokes
+
+
+============
+URL:https://humorapi.com/console/#Profile
+
+API key: f702c26ced8746888ad7ac6a31f4ca28
+
+============API (GET)
+https://official-joke-api.appspot.com/random_joke

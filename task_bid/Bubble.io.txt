@@ -1,0 +1,23 @@
+Hi there.
+I have read your proposal carefully and think that I am a good fit for your project.
+As a professional Frontend Developer specializing in Bubble.io, I can not only built user-friendly, pixel-perfectly web pages but also integrate APIs by collaborating with backend developers.
+These are my experienced Bubble.io websites:
+https://poshmark.com/
+https://www.oberlo.com/
+https://www.cafeconlibrosbk.com/
+https://www.nativeunion.com/
+If you are interested in me, Please contact me and let's discuss more detail.
+Thank you.
+
+
+What experience do you have with Twilio or Bandwith APIs?
+I have experienced with integrating APIs using Twilio 10DLC.
+Based on the above what is your approximate timeline for delivering a MVP to do testing on?
+About 4~5days
+Please provide links of other Bubble projects you have worked with
+https://poshmark.com/
+https://www.oberlo.com/
+https://www.cafeconlibrosbk.com/
+https://www.nativeunion.com/
+Describe your recent experience with similar projects
+In my latest project, I integrated RESTful APIs and am given high records by our team.

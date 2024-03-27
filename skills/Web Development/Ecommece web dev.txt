@@ -1,0 +1,44 @@
+
+
+-----------------------------------
+Amazon/Ebay API, Custom E-commerce web app development
+
+I was a lead developer of Sellerdashboard.ai, an online SaaS software for managing inventories and orders across major multi selling channels such as Amazon, eBay, Walmart, Shopify, Magento and Woocommerce. I have strong experience with integrating Amazon MWS, eBay Legacy and new API, Shopify API, Walmart API, Woocommerce API and more APIs. I have experience with E-commerce data feed and can build software to help your business manage workflow better, optimize performance, reduce cost and increase sales!
+
+
+//eCommerce Platforms
+WooCommerce
+ClickFunnels
+Shopify
+WordPress
+Magento
+//eCommerce Development Deliverables
+WordPress Plugin
+Bug Fix
+Platform Plugin
+Theme Customization
+Website Optimization
+Ecommerce Website
+Website Customization
+API Integration
+Website Migration
+Theme Development
+App Development
+//eCommerce Development Skills
+React
+Laravel
+HTML5
+JavaScript
+//Payment Systems
+Authorize.Net
+PayPal
+Stripe
+Braintree
+//Business Size
+Business with 100-999 Employees
+//Other skills
+Amazon API Gateway
+Amazon MWS
+Amazon EC2
+eBay Web Services
+eBay API

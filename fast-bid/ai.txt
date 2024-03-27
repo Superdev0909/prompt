@@ -1,0 +1,17 @@
+🟢🟢🟢 Hello~
+
+I am thrilled about the job opportunity you have posted. With over 7 years of experience in AI and Data Science, I have worked extensively on machine learning algorithms, NLP, Computer Vision, and Audio Processing. My skills and expertise make me well-suited to contribute significantly to your projects.
+
+Throughout my career, I have designed numerous AI solutions and successfully integrated various machine learning models into these solutions. I have a proven track record of optimizing performance and ensuring scalability of models. In my previous projects, I have implemented machine learning models for forecasting and recommendation systems, which have resulted in increased revenue for both my companies and clients.
+
+With a deep understanding of OpenAI models like ChatGPT, open source LLMs such as Llama2, Claude2, Falcon, and Mistral, and Vectorbases like Pinecone and ChromaDB, I have successfully developed online and offline chatbots. I also have experience in troubleshooting common fine-tuning errors and ensuring smooth runtime with accurate outputs.
+
+In the field of computer vision, I have rich experience in image segmentation, real-time face swapping, and lip synchronization, which have greatly benefited marketing and advertising efforts. Additionally, I have focused on audio processing, specifically in TTS (text-to-speech) models. I have researched and improved the generation speed and voice quality, achieving similar performance to Air.ai products.
+
+Furthermore, I possess extensive web development experience and am proficient in the MERN stack and fastapi. I am capable of independently implementing any web application, including both frontend and backend development.
+
+I am available to discuss my qualifications further through chat or call, and I am ready to start working immediately, dedicating my full-time availability to your business.
+
+I am genuinely excited about this opportunity and eagerly await our meeting.
+
+Thank you.

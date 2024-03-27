@@ -1,0 +1,92 @@
+
+====================================computer vision==================================
+
+CNN project list.
+ODIR recognition(competitive results)
+Leaf disease detection android app
+
+Medicle related projects
+lung cancer nodule as mentioned above
+edema detection(paper implementation)
+oDIR recognition
+working with X_ray images
+
+Project List
+Object Detection algorithms(MASK RCNN , Faster RCNN. SSD, YOLO all variants) used for various projects
+created 3d maskRcnn for CT scan data for lung nodule
+customized yolo for wheat grain defect detection more than 300+ grains in single image
+traffic count along with all direction, Included four way as well
+segformer for satelite data segmentation.
+yolo based card game site website analyzer
+working with non rgb dataset,
+advance mask detection with safety and privacy measures
+scene graph generation based on yolo
+
+
+Hi There.
+
+I will give you a 25% Discount on all my Python Development services. Let’s get to the Project. You are looking for a highly experienced Python developer that has good expertise in Python Development.
+
+You need Python and AI engineer who specializes in computer vision.
+
+Your requirements are fully clear to me and I am applying only because I meet all the requirements that you are looking for. I have been working as a Python developer for more than 6 years and I know all the ins and outs of Python development.
+
+
+For more work visit my company website https://softwaredevelopmenthub.com/
+
+If you want to talk about the requirements of the project in detail, please knock me anytime. I am looking forward to hearing from you. I am mostly in love with communication. I enjoy communicating with my customers 24/7, so they can catch me anytime they need me.
+
+The project should be 100% correct and complete that will be my first guaranteed service in this project. Moreover, I will be available for you for any kind of future edits and customizations free of cost.
+
+Thanks
+
+
+
+Hello,
+I hope all is well with you. I've taken the time to review your project description and I am excited to help you in providing an exceptional solution tailored to your needs. I specialize in Python programming, machine learning, data analysis, and various forms of automation.
+My expertise also extends to
+Natural Language Processing (NLP),
+General AI,
+chatbots,
+and neural networks.
+I would love to discuss your project in more detail during a quick chat. To give you an idea of my capabilities, I invite you to check out some of my recent work that demonstrates my skill set:
+Custom Data Analysis Tools
+Automated Reporting Systems
+Chatbot Implementations
+NLP-Based Text Summarizers
+Neural Network Models for Classification Tasks
+Thank you for considering my services. I'm looking forward to the possibility of working together.
+Best regards,
+
+@BhaskarGautam
+
+Advising you to visit Bixby bot on Samsung Device. Further I recommending you few of my research articles that leverages state-of-the-art AI Models.
+
+1. https://ieeexplore.ieee.org/abstract/document/8637454
+2. https://link.springer.com/article/10.1186/s13673-018-0163-4
+3. https://annals-csis.org/Volume_10/drp/pdf/113.pdf
+4. https://arxiv.org/abs/1810.11498
+
+I've been working in this industry for more than ten years, and I've developed my knowledge in AI on Big Data and Big Data Stream Mining, which enables me to offer the creativity that your present project requires most.
+
+I've learned how to deal with, execute, train and test PB's of text data on most recent AI algorithms like T5, UL2, BERT, XLnet, Transformers, AutoML, LLM's , Emeddings and even more.
+
+Awarded by OpenAI (ChatGPT), Samsung, IBM and IISC for most of novel contributions.
+
+Because my research area is Text Data Mining, I believe I have information that you should utilise in implementing optimizer for your ML model.
+
+As a next step, I would like to discuss some further questions/execution plan with you.
+
+Either over the chat or a call, whatever you prefer.
+
+Whether you want to implement a research paper or reinvent this wheel from the scratch or even leverage pre-trained model, I always strive to provide first follow up & consequent update within next business day.
+
+Hope our experience will help you to achieve goal faster then ever.
+
+
+
+
+
+
+
+I have deployed backend of many webservices to AWS, Azure, GCP and awarded by OpenAI (ChatGPT), IBM and IISC for most of novel contributions.

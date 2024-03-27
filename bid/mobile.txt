@@ -1,0 +1,20 @@
+Hi👋,
+As an experienced Flutter developer, I am excited to apply my skills and knowledge to contribute to your team and help build innovative mobile applications.
+I have extensive experience with Flutter and related technologies including Dart language, state management, Firebase and other third-party libraries. I have built multiple mobile applications using Flutter, including Finance app and Dating app, which are available on both Android and iOS platforms.
+My ability to integrate backend into mobile application with RESTful APIs has helped me to build scalable and robust applications.
+I am very familiar with Agile methodology and Git for project management, team collaboration and version control. I am confident that my skills and experience make me a strong candidate for your project.
+Thank you for considering my application. I look forward to discussing details of your project with you soon.
+
+
+👋Hi,
+As an experienced React Native expo expert, I am excited to apply my skills and knowledge to contribute to your team and help build innovative mobile applications.
+I have extensive experience with RN cli and related technologies including Javascript language, state management, Firebase and other third-party libraries. I have built multiple mobile applications using RN, including Finance app and Dating app, which are available on both Android and iOS platforms.
+My ability to integrate backend into mobile application with RESTful APIs has helped me to build scalable and robust applications.
+I am very familiar with Agile methodology and Git for project management, team collaboration and version control. I am confident that my skills and experience make me a strong candidate for your project.
+Thank you for considering my application. I look forward to discussing details of your project with you soon.
+
+
+https://play.google.com/store/apps/details?id=com.netmartApp.userApp
+https://apps.apple.com/sg/developer/netmart/id888239037
+https://play.google.com/store/apps/details?id=ng.ridex.user
+https://apps.apple.com/by/app/ridex/id1597712019

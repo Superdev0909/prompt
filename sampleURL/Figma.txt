@@ -1,0 +1,18 @@
+=======Nutris EShop
+https://www.figma.com/file/Zw6IMNvUQCoxVqBMxHmJK2/Nordic-Nutris-Website-(Copy)?type=design&node-id=888-11170&mode=design
+
+
+
+
+
+========Webflow
+https://www.figma.com/proto/Wcb8CjKfPTWnlaWLH9tFNJ/MAJ3STIC?page-id=0%3A1&type=design&node-id=69-200&viewport=-1820%2C509%2C0.45&t=QPve3ze8oUeBdDEb-1&scaling=min-zoom&starting-point-node-id=69%3A200&show-proto-sidebar=1&mode=design
+
+https://www.figma.com/file/Xnrsbeixs3hPzYXfATdlNF/Brief-for-Webflow-section?type=design&node-id=0%3A1&mode=design&t=mzxGDHlq8IsIL22b-1
+
+=========UI design site
+https://www.untitledui.com/blog
+
+
+=======Sports Clock
+https://www.figma.com/file/QYLNXKKEhvdiFCWWGpL4Wo/Bovinie-Sports?type=design&node-id=0-1&mode=design

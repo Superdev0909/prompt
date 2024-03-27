@@ -1,0 +1,43 @@
+👋Hello! Simone
+As a professional AI and ChatGPT system developer, I'm interested in your project.
+
+
+[Experience]
+☑️ Various NLP systems such as Q&A, text generation and ChatPDF using the OpenAI and Hugging Face model.
+☑️ Website with ChatBot. It's for employee assistance. Langchain and pinecone are used.
+☑️ Text2Sql system for data extraction from the database.
+☑️ Financial data analysis system, especially stock market data with web scraping.
+☑️ E-commerce website with Django and Laravel.
+☑️ Auto translation system with OpenAI whisper model. From French voice to english voice and text.
+☑️ Matlab image processing program.
+
+𝙃𝙚𝙧𝙚 𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙚𝙭𝙖𝙢𝙥𝙡𝙚𝙨 𝙤𝙛 𝙢𝙮 𝙬𝙤𝙧𝙠:
+https://www.memurai.com/
+https://www.baasenbaas.nl
+https://c12d42895ebb-15633984065905290001.ngrok-free.app/
+
+All of the above systems have been done with Python, Tensorflow, and PyTorch.
+Please contact me for further discussion.
+Thanks.
+PS. I'm a member of OpenAI, Hugging Face and the Kaggle family.
+
+
+👋Hello!👋
+First, I want to know if you can get openai key and pinecone key.
+Recently, Openai and Pinecone service is restricted in several areas of the world.
+As a professional AI and ChatGPT system developer, I'm interested in your project.
+
+Experience.
+- Various NLP systems such as Q&A, text generation and ChatPDF using the OpenAI and Hugging Face model.
+- No code ChatBot Builder like Landbot or Botpress integrated with ChatGPT. It's for employee assistance. Langchain, pinecone and Bubble.io are used.
+- ChatDoc system related with custom csv file.
+- Text2Sql system for data extraction from the database.
+- Financial data analysis system, especially stock market data with web scraping.
+- Auto translation system with OpenAI whisper model. From French voice to english voice and text.
+
+
+Especially I'm familiar with Langchain, Openai and Pinecone integration.
+A few days ago, I have finished project like yours.
+Please contact me for further discussion.
+Thanks.
+PS. I'm a member of OpenAI, Hugging Face and the Kaggle family.
